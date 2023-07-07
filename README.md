@@ -8,11 +8,10 @@ Resolving test on C# for logger and sorted list, This repo includes two projects
 
  
 ##    *How to run programs*
-On a terminal just execute the following command line:
+Open a terminal, go to project folder and just execute the following command line :
 
         * dotnet run
       
 
 
 
-      
