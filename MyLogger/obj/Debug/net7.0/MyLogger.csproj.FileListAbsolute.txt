@@ -1,0 +1,15 @@
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/bin/Debug/net7.0/MyLogger
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/bin/Debug/net7.0/MyLogger.deps.json
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/bin/Debug/net7.0/MyLogger.runtimeconfig.json
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/bin/Debug/net7.0/MyLogger.dll
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/bin/Debug/net7.0/MyLogger.pdb
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/obj/Debug/net7.0/MyLogger.csproj.AssemblyReference.cache
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/obj/Debug/net7.0/MyLogger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/obj/Debug/net7.0/MyLogger.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/obj/Debug/net7.0/MyLogger.AssemblyInfo.cs
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/obj/Debug/net7.0/MyLogger.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/obj/Debug/net7.0/MyLogger.dll
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/obj/Debug/net7.0/refint/MyLogger.dll
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/obj/Debug/net7.0/MyLogger.pdb
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/obj/Debug/net7.0/MyLogger.genruntimeconfig.cache
+/Users/rodrigo/Documents/ProjectsC#/MyLogger/obj/Debug/net7.0/ref/MyLogger.dll

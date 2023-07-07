@@ -1,0 +1,15 @@
+/Users/rodrigo/Documents/ProjectsC#/Inventory/bin/Debug/net7.0/Inventory
+/Users/rodrigo/Documents/ProjectsC#/Inventory/bin/Debug/net7.0/Inventory.deps.json
+/Users/rodrigo/Documents/ProjectsC#/Inventory/bin/Debug/net7.0/Inventory.runtimeconfig.json
+/Users/rodrigo/Documents/ProjectsC#/Inventory/bin/Debug/net7.0/Inventory.dll
+/Users/rodrigo/Documents/ProjectsC#/Inventory/bin/Debug/net7.0/Inventory.pdb
+/Users/rodrigo/Documents/ProjectsC#/Inventory/obj/Debug/net7.0/Inventory.csproj.AssemblyReference.cache
+/Users/rodrigo/Documents/ProjectsC#/Inventory/obj/Debug/net7.0/Inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/ProjectsC#/Inventory/obj/Debug/net7.0/Inventory.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/ProjectsC#/Inventory/obj/Debug/net7.0/Inventory.AssemblyInfo.cs
+/Users/rodrigo/Documents/ProjectsC#/Inventory/obj/Debug/net7.0/Inventory.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/ProjectsC#/Inventory/obj/Debug/net7.0/Inventory.dll
+/Users/rodrigo/Documents/ProjectsC#/Inventory/obj/Debug/net7.0/refint/Inventory.dll
+/Users/rodrigo/Documents/ProjectsC#/Inventory/obj/Debug/net7.0/Inventory.pdb
+/Users/rodrigo/Documents/ProjectsC#/Inventory/obj/Debug/net7.0/Inventory.genruntimeconfig.cache
+/Users/rodrigo/Documents/ProjectsC#/Inventory/obj/Debug/net7.0/ref/Inventory.dll
